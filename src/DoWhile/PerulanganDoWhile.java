@@ -2,7 +2,7 @@ package DoWhile;
 
 public class PerulanganDoWhile {
     public static void main(String[] args) {
-        int IsiGelas = 0;
+        int IsiGelas = 225;
         int penuh = 225;
 
         System.out.println("Isi Gelas Sekarang : " + IsiGelas + "ml");
